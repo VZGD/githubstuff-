@@ -1,5 +1,7 @@
 import random
 
+print("test")
+
 # Initialize fighter names and health points (hp)
 fighter_a = {"name": "Fighter A", "hp": 100}
 fighter_b = {"name": "Fighter B", "hp": 100}
